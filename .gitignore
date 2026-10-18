@@ -1,0 +1,10 @@
+# Temporary Office/Power BI files
+~$*.xlsx
+~$*.docx
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
