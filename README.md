@@ -78,7 +78,7 @@ Retail-Store-Performance-Profitability/
 ├── data/
 │   └── Retail_Store_Performance_1000_Records.xlsx
 ├── powerbi/
-│   └── Retail_Store_Performance.pbix   # Add your saved PBIX file here
+│   └── Retail_Store_Performance.pbix
 ├── report/
 │   └── Retail_Store_Performance_Findings_Recommendations_Report.docx
 └── screenshots/
