@@ -103,7 +103,3 @@ The starter package includes the dataset, written report, and dashboard screensh
 - Gross profit is not net profit: store operating costs such as rent, utilities, and salaries are not modeled.
 - Observed relationships (such as discount band and margin) are descriptive and do not establish causation.
 - Business recommendations should be validated against additional data before being applied in a real retail operation.
-
-## Suggested GitHub Topics
-
-`power-bi` · `data-analytics` · `excel` · `dax` · `retail-analytics` · `business-intelligence` · `data-visualization`
